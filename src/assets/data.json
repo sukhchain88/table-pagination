@@ -1,0 +1,316 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        },
+        {
+            "id": 1,
+            "name": "Sukh",
+            "gender": "Male",
+            "salary": 133000
+        },
+        {
+            "id": 2,
+            "name": "Navjot",
+            "gender": "Male",
+            "salary": 143000
+        },
+        {
+            "id": 3,
+            "name": "join",
+            "gender": "Female",
+            "salary": 53000
+        },
+        {
+            "id": 4,
+            "name": "prance",
+            "gender": "female",
+            "salary": 30000
+        }
+    ]
+}
